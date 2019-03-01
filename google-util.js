@@ -7,8 +7,8 @@ var app=express();
 
 
 const googleConfig = {
-    clientId: '1086091090723-9lt5ogj7gqh6tqu85v6o7vnif2pvq1t7.apps.googleusercontent.com',
-    clientSecret: '5hsm7F0gnvEWFZ5u8gq_moGB', // e.g. _ASDFA%DFASDFASDFASD#FAD-
+    clientId: '',
+    clientSecret: '', // e.g. _ASDFA%DFASDFASDFASD#FAD-
     redirect: 'http://localhost:3000/red' // this must match your google api settings
   };
 
